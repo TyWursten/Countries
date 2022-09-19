@@ -3,12 +3,43 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     -webkit-text-stroke-width: 4px;
     -webkit-text-stroke-color:black;
-    font-size: 168px;
+    font-size: 142pt;
     text-align: center;
     mix-blend-mode:initial;
+    border: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    background-color:midnightblue;
+    
+    
 }
 
 body {
-    background-image: url("https://cdn.britannica.com/01/3101-004-506325BB/Flag-Norway.jpg");
-    background-blend-mode: overlay;
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2019/03/norway-lofoten-mountains-evening-coast-4k_1551644862.jpg");
+    text-align: center;
+    
+    
 }
+
+img {
+
+    display:inline-block;
+    margin: auto;
+    margin-top: 50px;
+    width: 25%;
+    border-style: solid;
+    border-color: white;
+}
+
+p {
+    font-size: 22pt;
+    mix-blend-mode: difference;
+    color:white;
+
+}
+
+
