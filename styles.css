@@ -25,7 +25,7 @@ body {
     
 }
 
-img {
+img.NorwegianFlag {
 
     display:inline-block;
     margin: auto;
@@ -33,7 +33,26 @@ img {
     width: 25%;
     border-style: solid;
     border-color: white;
+
 }
+
+
+img.IndexImages {
+
+    display:inline-block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-color:white;
+    
+
+}
+    
 
 p {
     font-size: 22pt;
