@@ -1,0 +1,14 @@
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color:black;
+    font-size: 168px;
+    text-align: center;
+    mix-blend-mode:initial;
+}
+
+body {
+    background-image: url("https://cdn.britannica.com/01/3101-004-506325BB/Flag-Norway.jpg");
+    background-blend-mode: overlay;
+}
